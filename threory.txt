@@ -1,0 +1,5 @@
+MonogoDB 
+MongoDB is a popular NoSQL database that stores data in a flexible, JSON-like format called BSON. It is used for handling large amounts of unstructured and semi-structured data. MongoDB is widely used with JavaScript because of its compatibility with JavaScript's object notation (JSON).
+
+MongoDB has a native driver for JavaScript that allows developers to interact with MongoDB databases directly from JavaScript code, making it easy to build full-stack JavaScript applications. 
+
