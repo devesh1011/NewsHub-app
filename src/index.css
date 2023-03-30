@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #f1f2f3;
+  padding-top: px;
 }
 
 code {
@@ -21,7 +22,8 @@ code {
   color: white;
 }
 
-.nav-2 a:hover, a:focus {
+.nav-2 a:hover,
+a:focus {
   color: gray;
 }
 
@@ -36,4 +38,8 @@ code {
 .loading-img {
   margin: 0rem auto;
   width: 70px;
+}
+
+.fixed-top-2 {
+  margin-top: 56px;
 }
